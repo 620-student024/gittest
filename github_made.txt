@@ -1,2 +1,2 @@
 GitHubで作りました
-localで変更
+localとGitHubで作りました
